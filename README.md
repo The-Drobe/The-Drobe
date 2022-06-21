@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ![HomeLabDash](img/HomeLabDash.png)
 <div align="center">
-I host my services on a Proxmox cluster consisting of two servers and a Raspberry Pi3. These services are then hosted on a mix or virtual machines, Linux containers and Docker containers
+I host my services on a Proxmox cluster consisting of two servers and a Raspberry Pi3. These services are then hosted on a mix of virtual machines, Linux containers and Docker containers
 </div>
 
 
