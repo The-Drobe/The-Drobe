@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am The-Drobe</h1>
-<center>I am currently a networking student at South Metro tafe in Perth Western Australia. I have a large interest in home labing, Linux and python development.</center>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I am The-Drobe</h1>
+<div align="center">I am currently a networking student at South Metro tafe in Perth Western Australia. I have a large interest in home labing, Linux and python development.
+</div>
 <br>
 <h2 align="center">Skills</h2>
 <br>
 <!--https://github.com/tandpfun/skill-icons#readme-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,bash,cloudflare,flask,github,html,linux,md,raspberrypi,vscode,wordpress,py,discord,selenium&perline=20" />
+    <img src="https://skillicons.dev/icons?i=git,docker,bash,cloudflare,flask,github,html,linux,md,raspberrypi,vscode,wordpress,py,discord,selenium,azure&perline=20" />
   </a>
 </p>
 
-<br>
 
 <h2 align="center">HomeLab</h2>
 
@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 I host my services on a Proxmox cluster consisting of two servers and a Raspberry Pi3. These services are then hosted on a mix or virtual machines, Linux containers and Docker containers
 </div>
 
-<br>
 
 <h2 align="center">What Am I Currently Doing?</h2>
 <div align="center">
