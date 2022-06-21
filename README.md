@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <h2 align="center">Skills</h2>
-<br>
+
 <!--https://github.com/tandpfun/skill-icons#readme-->
 <p align="center">
   <a href="https://skillicons.dev">
