@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I am The-Drobe</h1>
 <div align="center">I am currently a networking student at South Metro tafe in Perth Western Australia. I have a large interest in home labing, Linux and python development.
 </div>
-<br>
+
+
+
 <h2 align="center">Skills</h2>
 <br>
 <!--https://github.com/tandpfun/skill-icons#readme-->
@@ -41,7 +43,9 @@ I host my services on a Proxmox cluster consisting of two servers and a Raspberr
 <div align="center">
 I am currently configuring CrowdSec and Nginx Proxy Manger for intrusion detection and remediation.
 </div>
-<br>
+
+
+
 <h1 align="center">Github Stuff</h1>
 
 | ![](https://github-readme-stats.vercel.app/api?username=The-Drobe&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Drobe) |
